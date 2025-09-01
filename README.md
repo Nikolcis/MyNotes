@@ -34,7 +34,7 @@ Clone the repository:
 
 🧑‍💻 Author
 
-Project created by [Your Name], based on the course by Mateusz Majek.
+Project created by me, based on the course by Mateusz Majek.
 Includes my own custom improvements and enhancements.
 
 🪪 License
